@@ -1,29 +1,8 @@
-# prodev-mobile-app-0x00 👋
-
-## 📱 First Mobile App with Expo Router
-
-This project sets up a basic mobile app using Expo Router, allowing easy navigation and web/device testing with Expo Go.
+# Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
-
-Navigate to Your Project Directory
-Open your terminal and move to your parent project directory:
-
-#### cd prodev-mobile-setup
-
-### > Set Up Your Project
-
-Initialize a new Expo project using the latest Expo Router template:
-
-> npx create-expo-app@latest .
-
-### Modify the Home Screen
-
-Open app/(tabs)/index.tsx.
-Locate the default text Welcome!.
-Change it to ** First App Created**.
 
 1. Install dependencies
 
@@ -50,26 +29,11 @@ You can start developing by editing the files inside the **app** directory. This
 
 When you're ready, run:
 
+```bash
 npm run reset-project
-Observed Effects:
-
-1. Reloaded all modules
-
-2. Fixed hot reload issues
-
-3. Helpful when stuck on build errors
+```
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-📂 Key Files
-README.md
-
-app-example/app/(tabs)/index.tsx
-
-app-example/constants/Colors.tsx
-
-✅ Status
-✅ First mobile app using Expo Router scaffolded successfully!
 
 ## Learn more
 
@@ -78,9 +42,9 @@ To learn more about developing your project with Expo, look at the following res
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Resources for you > Join the community
+## Join the community
 
-Join community of developers creating universal apps.
+Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
